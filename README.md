@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahusuneel777
 - 👀 I’m interested in FullStack Developement.
-- 🌱 I’m currently doing MERN stack Specialisation.
+- 🌱 I’m specialised in MERN stack.
 - 💞️ Open to work
 - 📫 How to reach me ... mail:sahusuneel777@gmail.com
 
