@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahusuneel777
+- 👋 Hi, I’m @sahusuneel777, A Fullstack developer.
 - 🌱 I’m specialised in MERN stack.
 - 💞️ Open to work
 - 📫 How to reach me ... mail:sahusuneel777@gmail.com
